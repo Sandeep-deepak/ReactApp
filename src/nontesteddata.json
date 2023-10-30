@@ -1,0 +1,117 @@
+{
+    "m_Item1": {
+        "ResponseCode": "200",
+        "ResponseType": "Success",
+        "Description": "Details for Section"
+    },
+    "m_Item2": {
+        "SampleTakersNoRCTests": [
+            {
+                "DivisionName": "Division 1 (CHARMINAR)",
+                "DivisionId": 157,
+                "DivisionCode": "1",
+                "SubDivisionName": "4 Subdivision (Chanudlal Bharadari)",
+                "SubDivisionId": 129541578,
+                "SampleTakerName": "Jameel Hussain",
+                "MobileNumber": 9989986684
+            },
+            {
+                "DivisionName": "Division 1 (CHARMINAR)",
+                "DivisionId": 157,
+                "DivisionCode": "1",
+                "SubDivisionName": "1 Sub-Division (Mir-Alam)",
+                "SubDivisionId": 127,
+                "SampleTakerName": "Jameel Hussain",
+                "MobileNumber": 9989986684
+            },
+            {
+                "DivisionName": "Division 4 (RED HILLS)",
+                "DivisionId": 160,
+                "DivisionCode": "4",
+                "SubDivisionName": "3 Sub-Division (Redhills)",
+                "SubDivisionId": 139,
+                "SampleTakerName": "Sri Akbar Hussain",
+                "MobileNumber": 8019197168
+            },
+            {
+                "DivisionName": "Division 7 (MARREDPALLY)",
+                "DivisionId": 163,
+                "DivisionCode": "7",
+                "SubDivisionName": "1 Sub-Division (H.S. Pump House)",
+                "SubDivisionId": 148,
+                "SampleTakerName": "Sri Ch. Prabhakar",
+                "MobileNumber": 9121139451
+            },
+            {
+                "DivisionName": "Division 10 (a) (L.B.NAGAR)",
+                "DivisionId": 166,
+                "DivisionCode": "10",
+                "SubDivisionName": "2 Subdivision (Alkapuri)",
+                "SubDivisionId": 10398,
+                "SampleTakerName": "M. Prem Kumar",
+                "MobileNumber": 9553016818
+            },
+            {
+                "DivisionName": "Division 14 (KAPRA N UPPAL)",
+                "DivisionId": 10406,
+                "DivisionCode": "14",
+                "SubDivisionName": "1 Subdivision (KAPRA)",
+                "SubDivisionId": 10407,
+                "SampleTakerName": "Sri K. Ramesh",
+                "MobileNumber": 9121139450
+            },
+            {
+                "DivisionName": "Division 14 (KAPRA N UPPAL)",
+                "DivisionId": 10406,
+                "DivisionCode": "14",
+                "SubDivisionName": "UPPAL SUB DIVISION",
+                "SubDivisionId": 10420,
+                "SampleTakerName": "Sri K. Ramesh",
+                "MobileNumber": 9121139450
+            },
+            {
+                "DivisionName": "Division 15 (RAMACHANDRAPURAM, PATANCHERVU N SERILINGAMPALLY)",
+                "DivisionId": 10409,
+                "DivisionCode": "15",
+                "SubDivisionName": "3 Sub-Division Patancheru",
+                "SubDivisionId": 156,
+                "SampleTakerName": "Sri T. Abhishek",
+                "MobileNumber": 9121139449
+            },
+            {
+                "DivisionName": "Division 16  (RAJENDRANAGAR)",
+                "DivisionId": 10412,
+                "DivisionCode": "16",
+                "SubDivisionName": "1 Subdivision (Hyderguda)",
+                "SubDivisionId": 10413,
+                "SampleTakerName": "Sri Harish Pawan",
+                "MobileNumber": 9121139441
+            },
+            {
+                "DivisionName": "Division 2 (b) (ASMANGADH)",
+                "DivisionId": 101159766,
+                "DivisionCode": "33",
+                "SubDivisionName": "2 Sub-Division (Balapur)",
+                "SubDivisionId": 132,
+                "SampleTakerName": "Khaiser Mohammed",
+                "MobileNumber": 8555859029
+            },
+            {
+                "DivisionName": "Division 10 (b) (L.B.NAGAR)",
+                "DivisionId": 101159776,
+                "DivisionCode": "34",
+                "SubDivisionName": "2 Sub-Division (Prashanthnagar)",
+                "SubDivisionId": 101159781,
+                "SampleTakerName": "M. Prem Kumar",
+                "MobileNumber": 9553016818
+            }
+        ],
+        "SampleTakersRCTestSummarys": [
+            {
+                "FeedBackDate": "2023-08-02T00:00:00",
+                "NoofSampleTakers": 54,
+                "NoofRCTestsDone": 7015
+            }
+        ]
+    }
+}
